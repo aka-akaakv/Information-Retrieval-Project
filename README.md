@@ -7,7 +7,7 @@
 
 ******DETAILS ABOUT CORPUS USED******
 1. CORPUS is reuters21578.
-2. It has 21 .sgm files with each file having 1000 documents.
+2. It has 22 .sgm starting from reut2-000.sgm to reut2-021.sgn files with each file having approximately 1000 documents except for last file which has around 500 documents.
 3. The documents are separated by <REUTER></REUTER> tags.
 4. Each document has a oldid and a newid.
 4. To extract the various documents from the file we have used this tag information and the the oldid information.
